@@ -1,0 +1,2 @@
+from nltk.chat.eliza import eliza_chat
+eliza_chat()
