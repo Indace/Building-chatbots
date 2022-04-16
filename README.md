@@ -12,6 +12,7 @@ Chatbot is a computer program, which responds like a smart entity when conversed
 to Rasa. Rasa is a complex framework that allows the creation of very sophisticated chatbots, and we will have a basic introduction to it. We will build a default bot using Rasa, and then we will modify it to do simple interactions.
 
 We covered these points : 
+
 • Building a basic chatbot with keyword matching
 • Building a basic Rasa chatbot
 • Creating question-answer pairs with Rasa
